@@ -21,6 +21,6 @@ done
 EOF
 chmod +x /etc/cron.daily/denypublic
 curl -s -LO https://raw.githubusercontent.com/nikzad-avasam/block-torrent-on-server/main/Thosts
-cat hostsTrackers >> /etc/hosts
+cat Thosts >> /etc/hosts
 sort -uf /etc/hosts > /etc/hosts.uniq && mv /etc/hosts{.uniq,}
 echo "${OK}"
