@@ -16,3 +16,5 @@ copy this bellow command and paste in your terminal:
 داخل سرور یا سرور مجازی لینوکسی ترمینال را باز کنید و کد زیر را کپی کرده سپس اینتر بزنید. تمام : 
 
 `wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/btorrent.sh && chmod +x btorrent.sh && bash btorrent.sh`
+
+created by [avasam](https://avasam.ir)
