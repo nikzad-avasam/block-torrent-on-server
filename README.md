@@ -2,8 +2,10 @@
 
 by this script you can block all torrent and p2p traffic on your server or vps and this will prevent your server from being blocked by the datacenter (Using torrent is illegal).
 
-##install 
+## install 
+
 copy this bellow command and paste in your terminal:
+
 `wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/btorrent.sh && chmod +x btorrent.sh && bash btorrent.sh`
 
 # بلاک کردن استفاده از تورنت در سرور یا سرور مجازی
