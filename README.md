@@ -9,6 +9,13 @@ copy bellow command , paste in your terminal and run it :
 
 `wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/btorrent.sh && chmod +x btorrent.sh && bash btorrent.sh`
 
+## rollback 
+
+1 - make rollback file executable : 
+`chmod +x rollback-torrent-block.sh`
+2 - run rollback-torrent-block.sh file : 
+`sudo ./rollback-torrent-block.sh`
+
 ----
 💚 stay safe.
 
