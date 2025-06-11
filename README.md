@@ -9,6 +9,10 @@ copy bellow command , paste in your terminal and run it :
 
 `wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/btorrent.sh && chmod +x btorrent.sh && bash btorrent.sh`
 
+### Uses nft instead of iptables 
+`wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/btorrent.sh && chmod +x btorrent.sh && bash btorrent.sh`
+----
+
 ## rollback 
 
 copy bellow command and run it in terminal , it rollback everything : 
