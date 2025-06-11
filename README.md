@@ -11,13 +11,9 @@ copy bellow command , paste in your terminal and run it :
 
 ## rollback 
 
-1 - make rollback file executable : 
+copy bellow command and run it in terminal , it rollback everything : 
 
-`chmod +x rollback-torrent-block.sh`
-
-2 - run rollback-torrent-block.sh file : 
-
-`sudo ./rollback-torrent-block.sh`
+`wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/rollback-btorrent.sh && chmod +x rollback-btorrent.sh && sudo bash rollback-btorrent.sh`
 
 
 ----
