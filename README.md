@@ -13,7 +13,7 @@ copy bellow command , paste in your terminal and run it :
 
 copy bellow command and run it in terminal , it rollback everything : 
 
-`wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/rollback-btorrent.sh && chmod +x rollback-btorrent.sh && sudo bash rollback-btorrent.sh`
+`wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/rollback-torrent-block.sh && chmod +x rollback-torrent-block.sh && sudo bash rollback-torrent-block.sh`
 
 
 ----
