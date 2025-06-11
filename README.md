@@ -12,9 +12,13 @@ copy bellow command , paste in your terminal and run it :
 ## rollback 
 
 1 - make rollback file executable : 
+
 `chmod +x rollback-torrent-block.sh`
+
 2 - run rollback-torrent-block.sh file : 
+
 `sudo ./rollback-torrent-block.sh`
+
 
 ----
 💚 stay safe.
