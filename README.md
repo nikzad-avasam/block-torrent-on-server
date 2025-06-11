@@ -9,6 +9,8 @@ copy bellow command , paste in your terminal and run it :
 
 `wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/btorrent.sh && chmod +x btorrent.sh && bash btorrent.sh`
 
+----
+
 if you want use nft instead of iptables:
 
 `wget https://github.com/nikzad-avasam/block-torrent-on-server/raw/main/block-torrent-nftables.sh && chmod +x block-torrent-nftables.sh && bash block-torrent-nftables.sh`
